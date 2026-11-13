@@ -1,0 +1,50 @@
+Python 3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+
+= RESTART: C:/Users/mc_jfetty28/OneDrive - Medina County Career Center/Documents/GitHub/programing/Step02_C.py
+Employee name: Avery
+Hourly pay rate: 16.00
+Hours worked this week: 25
+
+================================
+PAY STUB: Avery
+================================
+Hours worked:      25.0
+Hourly rate:       $16.00
+Gross pay:         $400.00
+--------------------------------
+Federal tax (10%): $40.00
+State tax (3.5%):  $14.00
+Social Security:   $24.80
+Medicare:          $5.80
+Total taken out:   $84.60
+--------------------------------
+NET PAY:           $315.40
+================================
+You keep 78.8% of what you earn.
+Yearly gross: $20800.00
+Yearly net:   $16400.80
+>>> 
+= RESTART: C:/Users/mc_jfetty28/OneDrive - Medina County Career Center/Documents/GitHub/programing/Step02_C.py
+Employee name: sam
+Hourly pay rate: 14.25
+Hours worked this week: 30
+
+================================
+PAY STUB: sam
+================================
+Hours worked:      30.0
+Hourly rate:       $14.25
+Gross pay:         $427.50
+--------------------------------
+Federal tax (10%): $42.75
+State tax (3.5%):  $14.96
+Social Security:   $26.50
+Medicare:          $6.20
+Total taken out:   $90.42
+--------------------------------
+NET PAY:           $337.08
+================================
+You keep 78.8% of what you earn.
+Yearly gross: $22230.00
+Yearly net:   $17528.35

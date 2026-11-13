@@ -1,0 +1,30 @@
+Python 3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+= RESTART: C:/Users/mc_jfetty28/OneDrive - Medina County Career Center/Documents/GitHub/programing/step02_task.md/step02_B.py
+Destination:  Columbus
+Trip distance (miles): 150
+Car's miles per gallon: 30
+Gas price per gallon: 3.20
+Number of people splitting the cost: 2
+
+--- Trip to  Columbus ---
+Gallons of gas:   5.0
+Gas cost:         $16.00
+Cost per person:  $8.00
+Driving time:     2 hr 43 min (at 55 mph)
+Round trip gas:   $32.00
+>>> 
+= RESTART: C:/Users/mc_jfetty28/OneDrive - Medina County Career Center/Documents/GitHub/programing/step02_task.md/step02_B.py
+Destination:  Cedar Point
+Trip distance (miles): 62
+Car's miles per gallon: 28
+Gas price per gallon: 3.19
+Number of people splitting the cost: 4
+
+--- Trip to  Cedar Point ---
+Gallons of gas:   2.2
+Gas cost:         $7.06
+Cost per person:  $1.77
+Driving time:     1 hr 7 min (at 55 mph)
+Round trip gas:   $14.13
